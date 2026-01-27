@@ -1,0 +1,1 @@
+public record Job(Guid Id, TaskCompletionSource<string> Tcs);
